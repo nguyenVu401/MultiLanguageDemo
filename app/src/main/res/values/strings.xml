@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoMultiLanguageQuiz</string>
+    <string name="app_title">DemoMultiLanguageQuiz</string>
+    <string name="title">Quiz</string>
+    <string name="maths">Maths</string>
+    <string name="describe">This is a difficult problem.</string>
+    <string name="question">%1$d Questions</string>
+    <string name="time">Last updated %1$d hours ago</string>
+</resources>
